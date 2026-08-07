@@ -34,7 +34,13 @@
 # 💫 About Me
 
 
-<img align="right" width="420" src="./assets/code.gif">
+<div>
+  <img
+    src="https://i.imgur.com/1ZvVkDc.gif" 
+    alt="mario coding"
+    />
+</div>
+
 🎓 Computer Science Student
 
 ☕ Passionate Java Full Stack Developer
