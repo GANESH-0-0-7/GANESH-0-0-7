@@ -1,7 +1,7 @@
 <!-- ========================= HEADER ========================= -->
 
 <p align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:6C63FF,50:3B82F6,100:00E5FF&text=Ganesh C&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:6C63FF,50:3B82F6,100:00E5FF&text=GaneshC&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 </p>
 
 <h1 align="center">Hi 👋 I'm Ganesh C</h1>
