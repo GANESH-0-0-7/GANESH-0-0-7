@@ -316,27 +316,11 @@ Expense Management System for tracking daily income and expenses.
 
 ---
 
-# 💻 LeetCode
+<h2 align="center">🧩 LeetCode</h2>
 
 <p align="center">
-
-<img src="https://leetcard.jacoblin.cool/SAITMAN?theme=dark&font=Baloo&ext=heatmap"/>
-
+  <img src="https://leetcard.jacoblin.cool/anurag_paul_2006?theme=dark&font=Baloo&ext=heatmap" />
 </p>
-
-<div align="center">
-
-| 📊 Metric | 🚀 Value |
-|:---------:|:--------:|
-| 🧩 Problems Solved | **404+** |
-| 🏆 Contest Rating | **1740** |
-| 🌍 Global Rank | **Top 11%** |
-| 🔥 Active Days | **201** |
-| ⚡ Max Streak | **46 Days** |
-| 💻 Language | **Java** |
-
-</div>
-
 ---
 
 # 📈 Contribution Graph
