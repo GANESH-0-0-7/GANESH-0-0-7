@@ -32,11 +32,11 @@
 
 # 💫 About Me
 
-<img
-src="https://i.imgur.com/1ZvVkDc.gif"
-width="420"/>
+<div align="right">
+  <img src="https://i.imgur.com/1ZvVkDc.gif"
+       alt="Mario Coding"
+       width="600"/>
 </div>
-
 🎓 Computer Science Student
 
 ☕ Passionate Java Full Stack Developer
