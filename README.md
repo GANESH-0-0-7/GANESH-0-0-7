@@ -33,10 +33,8 @@
 
 # 💫 About Me
 
-<p align="right">
-  <img width="350" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif">
-</p>
 
+<img align="right" width="420" src="./assets/code.gif">
 🎓 Computer Science Student
 
 ☕ Passionate Java Full Stack Developer
