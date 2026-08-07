@@ -32,7 +32,6 @@
 
 # 💫 About Me
 
-<div align="right">
 <img
 src="https://i.imgur.com/1ZvVkDc.gif"
 width="420"/>
