@@ -34,7 +34,9 @@
 
 # 💫 About Me
 
-<img align="right" width="350" src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif"/>
+<p align="right">
+  <img width="350" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif">
+</p>
 
 🎓 Computer Science Student
 
