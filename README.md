@@ -319,7 +319,7 @@ Expense Management System for tracking daily income and expenses.
 <h2 align="center">🧩 LeetCode</h2>
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/anurag_paul_2006?theme=dark&font=Baloo&ext=heatmap" />
+  <img src="https://leetcard.jacoblin.cool/SAITMAN?theme=dark&font=Baloo&ext=heatmap" />
 </p>
 ---
 
