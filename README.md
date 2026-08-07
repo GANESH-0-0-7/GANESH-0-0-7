@@ -125,24 +125,6 @@ width="420"/>
 
 ---
 
-# 📚 Currently Learning
-
-<p align="center">
-
-| 🚀 Technology | 📈 Progress |
-|:-------------|:-----------:|
-| ☕ Spring Boot | ██████████░ 90% |
-| 🔐 Spring Security | ████████░░ 80% |
-| ⚙️ REST APIs | █████████░ 85% |
-| 🐳 Docker | ██████░░░░ 60% |
-| ☸ Kubernetes | ████░░░░░░ 40% |
-| 🏗 System Design | █████░░░░░ 50% |
-| 🔗 Microservices | █████░░░░░ 50% |
-
-</p>
-
----
-
 <div align="center">
 
 ### 💡 Developer Philosophy
