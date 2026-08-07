@@ -299,21 +299,20 @@ Expense Management System for tracking daily income and expenses.
 ---
 <!--==================== GITHUB ANALYTICS ====================-->
 
-# 📊 GitHub Analytics
+<h2 align="center">📊 GitHub Analytics</h2>
 
-<p align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=GANESH-0-0-7&show_icons=true&theme=tokyonight&hide_border=true"/>
+<div align="center">
 
-<img width="49%" src="https://streak-stats.demolab.com?user=GANESH-0-0-7&theme=tokyonight&hide_border=true"/>
-</p>
 
-<p align="center">
-<img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=GANESH-0-0-7&theme=tokyo-night&hide_border=true"/>
-</p>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GANESH-0-0-7&theme=algolia"/>
 
-<p align="center">
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GANESH-0-0-7&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GANESH-0-0-7&theme=algolia"/>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GANESH-0-0-7&theme=algolia"/>
+
+
+
+</div>
 
 ---
 
