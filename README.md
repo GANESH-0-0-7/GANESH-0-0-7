@@ -38,25 +38,6 @@
        alt="Mario Coding">
 </p>
 
-🎓 Computer Science Student
-
-☕ Passionate Java Full Stack Developer
-
-🚀 Building scalable web applications
-
-💻 Strong in Java & Spring Boot
-
-⚛️ React Developer
-
-📚 Solving Data Structures & Algorithms
-
-🌱 Currently learning
-
-- Spring Security
-- Docker
-- Kubernetes
-- System Design
-- Microservices
   <!--==================== CONNECT ====================-->
 
 # 🌐 Connect With Me
@@ -255,48 +236,8 @@ Expense Management System for tracking daily income and expenses.
 
 </table>
 
----
 
-# 🏆 Achievements
 
-<div align="center">
-
-| 🏅 Achievement | 🚀 Status |
-|:--------------|:---------:|
-| 💻 LeetCode Problems | **404+** |
-| 🏆 Contest Rating | **1740** |
-| 🔥 Max Streak | **46 Days** |
-| 📂 GitHub Repositories | **22+** |
-| ☕ Backend Development | **Java + Spring Boot** |
-| 📚 DSA | **Java** |
-
-</div>
-
----
-
-# 🎯 Current Focus
-
-<div align="center">
-
-```text
-☕ Spring Boot
-
-⚙ REST APIs
-
-🏗 System Design
-
-🔗 Microservices
-
-🐳 Docker
-
-☸ Kubernetes
-
-📚 Daily LeetCode
-```
-
-</div>
-
----
 <!--==================== GITHUB ANALYTICS ====================-->
 
 <h2 align="center">📊 GitHub Analytics</h2>
@@ -376,36 +317,7 @@ Expense Management System for tracking daily income and expenses.
   <img src="https://raw.githubusercontent.com/GANESH-0-0-7/GANESH-0-0-7/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
 </p>
 
----
-
-# 🚀 2026 Goals
-
-<div align="center">
-
-| 🎯 Goal | Progress |
-|:---------|:-------:|
-| 🧩 600+ LeetCode Problems | 🔄 In Progress |
-| ☕ Master Spring Boot | 🔄 In Progress |
-| 🏗 Learn Microservices | 🔄 In Progress |
-| 🐳 Docker & Kubernetes | 🔄 In Progress |
-| ☁ Learn AWS | 🔄 In Progress |
-| 💻 Build More Full Stack Projects | 🔄 In Progress |
-
-</div>
-
----
-
-# 💭 Developer Quote
-
-<div align="center">
-
-> **"Programs must be written for people to read, and only incidentally for machines to execute."**
->
-> — Harold Abelson
-
-</div>
-
----
+------
 
 <p align="center">
 
