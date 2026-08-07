@@ -477,6 +477,9 @@ Track daily expenses, budgets, and financial insights.
 
 </p>
 
+<p align="center">
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
+</p>
 ---
 
 <p align="center">
