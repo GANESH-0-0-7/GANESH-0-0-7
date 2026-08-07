@@ -15,17 +15,17 @@
 
 <p align="center">
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/GANESH-0-0-7">
 <img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&logo=github&color=3B82F6"/>
 
 </a>
 
-<a href="https://github.com/YOUR_USERNAME?tab=repositories">
+<a href="https://github.com/GANESH-0-0-7?tab=repositories">
 <img src="https://img.shields.io/badge/Repositories-22-blue?style=for-the-badge"/>
 
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=6C63FF"/>
+<img src="https://komarev.com/ghpvc/?username=GANESH-0-0-7&style=for-the-badge&color=6C63FF"/>
 
 </p>
 
@@ -81,11 +81,11 @@
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://leetcode.com/u/YOUR_LEETCODE_USERNAME/">
+<a href="https://leetcode.com/u/SAITMAN/">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/GANESH-0-0-7">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
@@ -192,3 +192,214 @@
 ```
 
 ---
+<!-- ========================= FEATURED PROJECTS ========================= -->
+
+# 🚀 Featured Projects
+
+<table>
+<tr>
+
+<td width="50%">
+
+<h3 align="center">🔐 SecureVaultAI</h3>
+
+<p align="center">
+Secure document management system with secure authentication and encrypted file storage.
+</p>
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=spring,react,mysql"/>
+
+</p>
+
+<p align="center">
+
+<a href="https://github.com/GANESH-0-0-7/SecureVaultAI">
+<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
+
+</td>
+
+<td width="50%">
+
+<h3 align="center">🍽 MealRush</h3>
+
+<p align="center">
+Modern food ordering web application with responsive UI and authentication.
+</p>
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,mongodb"/>
+
+</p>
+
+<p align="center">
+
+<a href="https://github.com/GANESH-0-0-7/MealRush">
+<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+<h3 align="center">💼 JobNova</h3>
+
+<p align="center">
+Job portal platform connecting recruiters and job seekers.
+</p>
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=java,spring,mysql"/>
+
+</p>
+
+<p align="center">
+
+<a href="https://github.com/GANESH-0-0-7/JobNova">
+<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
+
+</td>
+
+<td width="50%">
+
+<h3 align="center">💰 Smart Expense Tracker</h3>
+
+<p align="center">
+Track daily expenses, budgets, and financial insights.
+</p>
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,javascript"/>
+
+</p>
+
+<p align="center">
+
+<a href="https://github.com/GANESH-0-0-7/Smart-Expense-Tracker-System">
+<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=GANESH-0-0-7&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img width="49%" src="https://streak-stats.demolab.com?user=GANESH-0-0-7&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img width="58%" src="https://github-readme-activity-graph.vercel.app/graph?username=GANESH-0-0-7&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GANESH-0-0-7&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏅 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=GANESH-0-0-7&theme=algolia&no-frame=true&row=2&column=4"/>
+
+</p>
+
+---
+
+# 💻 LeetCode
+
+<p align="center">
+
+<img src="https://leetcard.jacoblin.cool/SAITMAN?theme=dark&font=Poppins&ext=heatmap"/>
+
+</p>
+
+---
+
+## 📈 LeetCode Progress
+
+<div align="center">
+
+| Metric | Value |
+|:-------:|:----:|
+| 🧩 Problems Solved | **404+** |
+| 🏆 Contest Rating | **1740** |
+| 📊 Global Rank | **Top 11%** |
+| 🔥 Active Days | **201** |
+| ⚡ Max Streak | **46 Days** |
+| 💻 Primary Language | **Java** |
+
+</div>
+
+---
+
+# 🏆 Achievements
+
+<div align="center">
+
+🥇 **400+ LeetCode Problems Solved**
+
+🚀 **22+ GitHub Repositories**
+
+☕ **Java Full Stack Developer**
+
+📚 **Strong Foundation in DSA**
+
+💻 **Multiple Full Stack Projects**
+
+🌱 **Continuously Learning Modern Technologies**
+
+</div>
+
+---
+
+# 🎯 Current Focus
+
+```text
+☕ Mastering Spring Boot
+
+🚀 Building Full Stack Applications
+
+📚 Solving DSA Daily
+
+⚙ Learning Microservices
+
+🐳 Docker & Kubernetes
+
+☁ Exploring Cloud Technologies
+
+🏗 System Design
+```
