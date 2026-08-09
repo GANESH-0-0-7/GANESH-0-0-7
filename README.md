@@ -326,13 +326,5 @@ Expense Management System for tracking daily income and expenses.
 </p>
 
 <p align="center">
-
 ### ⭐ Thanks for visiting my profile!
 
-**Happy Coding 🚀**
-
-</p>
-
-> **"I enjoy transforming ideas into real-world software."**
-
----
