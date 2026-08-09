@@ -106,14 +106,7 @@
 
 ---
 
-<div align="center">
 
-### 💡 Developer Philosophy
-
-> **"First, solve the problem. Then, write the code."**  
-> — John Johnson
-
-</div>
 
 ---
 <!--==================== FEATURED PROJECTS ====================-->
