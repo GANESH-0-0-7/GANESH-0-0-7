@@ -289,19 +289,7 @@ Expense Management System for tracking daily income and expenses.
 
 </p>
 
----
 
-# ❤️ Support
-
-<div align="center">
-
-### ⭐ If you like my work, consider giving my repositories a star!
-
-### 🚀 Thanks for visiting my GitHub profile.
-
-</div>
-
----
 <!--==================== SNAKE ANIMATION ====================-->
 
 # 🐍 Contribution Snake
