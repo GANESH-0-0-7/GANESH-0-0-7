@@ -306,6 +306,5 @@ Expense Management System for tracking daily income and expenses.
 
 </p>
 
-<p align="center">
-### ⭐ Thanks for visiting my profile!
+
 
