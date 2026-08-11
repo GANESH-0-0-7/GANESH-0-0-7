@@ -119,7 +119,7 @@
 
 <td width="50%">
 
-<h3 align="center">🔐 SecureVaultAI</h3>
+<h3 align="center">JeevantaX</h3>
 
 <p align="center">
 
@@ -135,7 +135,7 @@ Secure document management system with authentication, encrypted storage and sec
 
 <p align="center">
 
-<a href="">
+<a href="https://github.com/GANESH-0-0-7/JeevantaX">
 <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
