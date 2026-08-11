@@ -123,7 +123,7 @@
 
 <p align="center">
 
-Secure document management system with authentication, encrypted storage and secure access.
+Jeevanta helps users book appointments, manage health records, talk to AI, and even get Telegram reminders for their meds. It’s like having a doctor, pharmacist, therapist, and assistant — all in one tab!
 
 </p>
 
