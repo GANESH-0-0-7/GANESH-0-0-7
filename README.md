@@ -28,7 +28,7 @@
 
 </p>
 
----
+
 
 # 💫 About Me
 
@@ -108,7 +108,7 @@
 
 
 
----
+
 <!--==================== FEATURED PROJECTS ====================-->
 
 # 🚀 Featured Projects
@@ -255,7 +255,6 @@ Expense Management System for tracking daily income and expenses.
 <p align="center">
  <img src="https://leetcard.jacoblin.cool/SAITMAN?theme=dark&font=Baloo&ext=heatmap" alt="LeetCode Stats"/>
 </p>
----
 
 # 📈 Contribution Graph
 
