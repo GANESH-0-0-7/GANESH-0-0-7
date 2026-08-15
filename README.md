@@ -4,10 +4,10 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:6C63FF,50:3B82F6,100:00E5FF&text=&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 </p>
 
-<h1 align="center">Hi 👋 I'm Ganesh C</h1>
+<h1 align="center">Hi  I'm Ganesh C</h1>
 
 <h3 align="center">
-☕ Java Full Stack Developer • Spring Boot • React
+Java Full Stack Developer • Spring Boot • React
 </h3>
 
 <p align="center">
@@ -30,7 +30,7 @@
 
 
 
-# 💫 About Me
+#  About Me
 
 <p align="center">
   <img src="https://i.imgur.com/1ZvVkDc.gif"
@@ -40,7 +40,7 @@
 
   <!--==================== CONNECT ====================-->
 
-# 🌐 Connect With Me
+#  Connect With Me
 
 <p align="center">
 
@@ -64,7 +64,7 @@
 
 ---
 
-# ⚡ Tech Stack
+#  Tech Stack
 
 <h3 align="center">💻 Programming Languages</h3>
 
@@ -201,7 +201,7 @@ Job Portal Platform connecting recruiters and job seekers.
 
 <td width="50%">
 
-<h3 align="center">💰 Smart Expense Tracker</h3>
+<h3 align="center"> Smart Expense Tracker</h3>
 
 <p align="center">
 
@@ -233,7 +233,7 @@ Expense Management System for tracking daily income and expenses.
 
 <!--==================== GITHUB ANALYTICS ====================-->
 
-<h2 align="center">📊 GitHub Analytics</h2>
+<h2 align="center"> GitHub Analytics</h2>
 
 <div align="center">
 
@@ -250,7 +250,7 @@ Expense Management System for tracking daily income and expenses.
 
 ---
 
-<h2 align="center">🧩 LeetCode</h2>
+<h2 align="center"> LeetCode</h2>
 
 <p align="center">
  <img src="https://leetcard.jacoblin.cool/SAITMAN?theme=dark&font=Baloo&ext=heatmap" alt="LeetCode Stats"/>
@@ -266,7 +266,7 @@ Expense Management System for tracking daily income and expenses.
 
 ---
 
-# 📫 Connect With Me
+#  Connect With Me
 
 <p align="center">
 
@@ -291,7 +291,7 @@ Expense Management System for tracking daily income and expenses.
 
 <!--==================== SNAKE ANIMATION ====================-->
 
-# 🐍 Contribution Snake
+#  Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/GANESH-0-0-7/GANESH-0-0-7/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
