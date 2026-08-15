@@ -66,7 +66,7 @@ Java Full Stack Developer • Spring Boot • React
 
 #  Tech Stack
 
-<h3 align="center">💻 Programming Languages</h3>
+<h3 align="center"> Programming Languages</h3>
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=java,js,html,css,mysql" />
@@ -74,7 +74,7 @@ Java Full Stack Developer • Spring Boot • React
 
 ---
 
-<h3 align="center">🎨 Frontend Development</h3>
+<h3 align="center"> Frontend Development</h3>
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap" />
@@ -82,7 +82,7 @@ Java Full Stack Developer • Spring Boot • React
 
 ---
 
-<h3 align="center">⚙️ Backend Development</h3>
+<h3 align="center"> Backend Development</h3>
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=spring,nodejs,express" />
@@ -90,7 +90,7 @@ Java Full Stack Developer • Spring Boot • React
 
 ---
 
-<h3 align="center">🗄️ Databases</h3>
+<h3 align="center">Databases</h3>
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres" />
@@ -98,7 +98,7 @@ Java Full Stack Developer • Spring Boot • React
 
 ---
 
-<h3 align="center">🛠️ Tools & Platforms</h3>
+<h3 align="center">Tools & Platforms</h3>
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,idea" />
@@ -145,7 +145,7 @@ Jeevanta helps users book appointments, manage health records, talk to AI, and e
 
 <td width="50%">
 
-<h3 align="center">🍽 MealRush</h3>
+<h3 align="center"> MealRush</h3>
 
 <p align="center">
 
@@ -175,7 +175,7 @@ Modern Restaurant Ordering Platform with responsive UI and authentication.
 
 <td width="50%">
 
-<h3 align="center">💼 JobNova</h3>
+<h3 align="center"> JobNova</h3>
 
 <p align="center">
 
