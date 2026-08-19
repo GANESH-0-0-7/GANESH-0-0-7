@@ -238,7 +238,7 @@ Expense Management System for tracking daily income and expenses.
 <div align="center">
 
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GANESH-0-0-7&theme=algolia"/>
+
 
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GANESH-0-0-7&theme=algolia"/>
 
