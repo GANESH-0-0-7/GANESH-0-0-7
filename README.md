@@ -231,10 +231,6 @@ Expense Management System for tracking daily income and expenses.
 
 
 
-<!--==================== GITHUB ANALYTICS ====================-->
-
-<h2 align="center"> GitHub Analytics</h2>
-
 
 
 ---
