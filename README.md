@@ -30,7 +30,7 @@ Java Full Stack Developer • Spring Boot • React
 
 
 
-#  About Me
+
 
 <p align="center">
   <img src="https://i.imgur.com/1ZvVkDc.gif"
