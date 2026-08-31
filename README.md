@@ -229,6 +229,19 @@ Expense Management System for tracking daily income and expenses.
 
 </p>
 
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=170&section=footer&color=0:6C63FF,50:3B82F6,100:00E5FF"/>
+
+</p>
+# 📊 GitHub Stats:
+(https://github-readme-stats.shion.dev/api?username=GANESH-0-0-7&theme=merko&hide_border=false&include_all_commits=true&count_private=true)<br/>
+(https://streak-stats.demolab.com/?user=GANESH-0-0-7&theme=merko&hide_border=false)<br/>
+(https://github-readme-stats.shion.dev/api/top-langs/?username=GANESH-0-0-7&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=GANESH-0-0-7&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
 ---
 
 #  Connect With Me
@@ -264,17 +277,6 @@ Expense Management System for tracking daily income and expenses.
 
 ------
 
-<p align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=170&section=footer&color=0:6C63FF,50:3B82F6,100:00E5FF"/>
-
-</p>
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=GANESH-0-0-7&theme=merko&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=GANESH-0-0-7&theme=merko&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=GANESH-0-0-7&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=GANESH-0-0-7&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 
