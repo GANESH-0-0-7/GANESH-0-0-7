@@ -21,36 +21,42 @@
   />
 </p>
 
+
 <!--==================== PROFILE STATS ====================-->
 
-<div align="center">
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://github.com/GANESH-0-0-7">
+        <img
+          src="https://img.shields.io/github/followers/GANESH-0-0-7?style=for-the-badge&logo=github&logoColor=white&label=FOLLOWERS&labelColor=555555&color=0E8DD2"
+          alt="GitHub Followers"
+        />
+      </a>
+    </td>
 
-  <a href="https://github.com/GANESH-0-0-7">
-    <img
-      src="https://img.shields.io/github/followers/GANESH-0-0-7?style=for-the-badge&logo=github&label=Followers"
-      alt="GitHub Followers"
-    />
-  </a>
+    <td align="center">
+      <img
+        src="https://komarev.com/ghpvc/?username=GANESH-0-0-7&style=for-the-badge&label=PROFILE+VIEWS&labelColor=555555&color=6C63FF"
+        alt="Profile Views"
+      />
+    </td>
 
-  &nbsp;&nbsp;
-
-  <img
-    src="https://komarev.com/ghpvc/?username=GANESH-0-0-7&style=for-the-badge&color=6C63FF&label=Profile+Views"
-    alt="Profile Views"
-  />
-
-  &nbsp;&nbsp;
-
-  <a href="https://leetcode.com/u/SAITMAN/">
-    <img
-      src="https://img.shields.io/badge/LeetCode-1740_Rating-orange?style=for-the-badge&logo=leetcode"
-      alt="LeetCode Rating"
-    />
-  </a>
-
-</div>
+    <td align="center">
+      <a href="https://leetcode.com/u/SAITMAN/">
+        <img
+          src="https://img.shields.io/badge/LEETCODE-1740%20RATING-orange?style=for-the-badge&logo=leetcode&logoColor=orange&labelColor=555555"
+          alt="LeetCode Rating"
+        />
+      </a>
+    </td>
+  </tr>
+</table>
 
 <br>
+
+
+<!--==================== MARIO ====================-->
 
 <p align="center">
   <img
@@ -320,7 +326,7 @@
 
 # 🤝 Connect With Me
 
-<div align="center">
+<p align="center">
 
   <a href="mailto:manhwamanhwa725@gmail.com">
     <img
@@ -356,7 +362,7 @@
     />
   </a>
 
-</div>
+</p>
 
 
 <!--==================== SNAKE ANIMATION ====================-->
@@ -373,6 +379,8 @@
 </p>
 
 ---
+
+<!--==================== FOOTER ====================-->
 
 <p align="center">
   <img
