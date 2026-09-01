@@ -21,19 +21,25 @@
   />
 </p>
 
-<p align="center">
+<!--==================== PROFILE STATS ====================-->
+
+<div align="center">
 
   <a href="https://github.com/GANESH-0-0-7">
     <img
-      src="https://img.shields.io/github/followers/GANESH-0-0-7?style=for-the-badge&logo=github"
+      src="https://img.shields.io/github/followers/GANESH-0-0-7?style=for-the-badge&logo=github&label=Followers"
       alt="GitHub Followers"
     />
   </a>
 
+  &nbsp;&nbsp;
+
   <img
-    src="https://komarev.com/ghpvc/?username=GANESH-0-0-7&style=for-the-badge&color=6C63FF"
+    src="https://komarev.com/ghpvc/?username=GANESH-0-0-7&style=for-the-badge&color=6C63FF&label=Profile+Views"
     alt="Profile Views"
   />
+
+  &nbsp;&nbsp;
 
   <a href="https://leetcode.com/u/SAITMAN/">
     <img
@@ -42,7 +48,7 @@
     />
   </a>
 
-</p>
+</div>
 
 <br>
 
@@ -57,12 +63,17 @@
 
 <!--==================== TECH STACK ====================-->
 
+---
+
 # 🛠️ Tech Stack
 
 <h3 align="center">💻 Programming Languages</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,html,css" alt="Programming Languages" />
+  <img
+    src="https://skillicons.dev/icons?i=java,js,html,css"
+    alt="Programming Languages"
+  />
 </p>
 
 ---
@@ -70,7 +81,10 @@
 <h3 align="center">🎨 Frontend Development</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap" alt="Frontend Technologies" />
+  <img
+    src="https://skillicons.dev/icons?i=react,tailwind,bootstrap"
+    alt="Frontend Technologies"
+  />
 </p>
 
 ---
@@ -78,7 +92,10 @@
 <h3 align="center">⚙️ Backend Development</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=spring,nodejs,express" alt="Backend Technologies" />
+  <img
+    src="https://skillicons.dev/icons?i=spring,nodejs,express"
+    alt="Backend Technologies"
+  />
 </p>
 
 ---
@@ -86,7 +103,10 @@
 <h3 align="center">🗄️ Databases</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres" alt="Databases" />
+  <img
+    src="https://skillicons.dev/icons?i=mysql,mongodb,postgres"
+    alt="Databases"
+  />
 </p>
 
 ---
@@ -94,7 +114,10 @@
 <h3 align="center">🔧 Tools & Platforms</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,idea" alt="Tools and Platforms" />
+  <img
+    src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,idea"
+    alt="Tools and Platforms"
+  />
 </p>
 
 
@@ -107,7 +130,7 @@
 <table>
 <tr>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 <h3 align="center">JeevantaX</h3>
 
@@ -117,7 +140,10 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=spring,react,mysql" alt="JeevantaX Tech Stack" />
+  <img
+    src="https://skillicons.dev/icons?i=spring,react,mysql"
+    alt="JeevantaX Tech Stack"
+  />
 </p>
 
 <p align="center">
@@ -131,7 +157,7 @@
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 <h3 align="center">MealRush</h3>
 
@@ -141,7 +167,10 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb" alt="MealRush Tech Stack" />
+  <img
+    src="https://skillicons.dev/icons?i=react,nodejs,mongodb"
+    alt="MealRush Tech Stack"
+  />
 </p>
 
 <p align="center">
@@ -159,7 +188,7 @@
 
 <tr>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 <h3 align="center">JobNova</h3>
 
@@ -168,7 +197,10 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,mysql" alt="JobNova Tech Stack" />
+  <img
+    src="https://skillicons.dev/icons?i=java,spring,mysql"
+    alt="JobNova Tech Stack"
+  />
 </p>
 
 <p align="center">
@@ -182,7 +214,7 @@
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 <h3 align="center">Smart Expense Tracker</h3>
 
@@ -191,7 +223,10 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js" alt="Smart Expense Tracker Tech Stack" />
+  <img
+    src="https://skillicons.dev/icons?i=html,css,js"
+    alt="Smart Expense Tracker Tech Stack"
+  />
 </p>
 
 <p align="center">
@@ -285,7 +320,7 @@
 
 # 🤝 Connect With Me
 
-<p align="center">
+<div align="center">
 
   <a href="mailto:manhwamanhwa725@gmail.com">
     <img
@@ -294,12 +329,16 @@
     />
   </a>
 
+  &nbsp;&nbsp;
+
   <a href="https://www.linkedin.com/in/ganesh-c-5124063bb/">
     <img
       src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
       alt="LinkedIn"
     />
   </a>
+
+  &nbsp;&nbsp;
 
   <a href="https://leetcode.com/u/SAITMAN/">
     <img
@@ -308,6 +347,8 @@
     />
   </a>
 
+  &nbsp;&nbsp;
+
   <a href="https://github.com/GANESH-0-0-7">
     <img
       src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
@@ -315,7 +356,7 @@
     />
   </a>
 
-</p>
+</div>
 
 
 <!--==================== SNAKE ANIMATION ====================-->
