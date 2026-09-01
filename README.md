@@ -24,32 +24,10 @@
 
 <!--==================== PROFILE STATS ====================-->
 
-<p align="center">
+| | | |
+|:---:|:---:|:---:|
+| [![GitHub Followers](https://img.shields.io/github/followers/GANESH-0-0-7?style=for-the-badge&logo=github&logoColor=white&label=FOLLOWERS&labelColor=555555&color=0E8DD2)](https://github.com/GANESH-0-0-7) | ![Profile Views](https://komarev.com/ghpvc/?username=GANESH-0-0-7&style=for-the-badge&label=PROFILE+VIEWS&labelColor=555555&color=6C63FF) | [![LeetCode Rating](https://img.shields.io/badge/LEETCODE-1740%20RATING-orange?style=for-the-badge&logo=leetcode&logoColor=orange&labelColor=555555)](https://leetcode.com/u/SAITMAN/) |
 
-  <a href="https://github.com/GANESH-0-0-7">
-    <img
-      src="https://img.shields.io/github/followers/GANESH-0-0-7?style=for-the-badge&logo=github&logoColor=white&label=FOLLOWERS&labelColor=555555&color=0E8DD2"
-      alt="GitHub Followers"
-    />
-  </a>
-
-  &nbsp;&nbsp;
-
-  <img
-    src="https://komarev.com/ghpvc/?username=GANESH-0-0-7&style=for-the-badge&label=PROFILE+VIEWS&labelColor=555555&color=6C63FF"
-    alt="Profile Views"
-  />
-
-  &nbsp;&nbsp;
-
-  <a href="https://leetcode.com/u/SAITMAN/">
-    <img
-      src="https://img.shields.io/badge/LEETCODE-1740%20RATING-orange?style=for-the-badge&logo=leetcode&logoColor=orange&labelColor=555555"
-      alt="LeetCode Rating"
-    />
-  </a>
-
-</p>
 
 <br>
 
@@ -376,9 +354,10 @@
   />
 </p>
 
----
 
 <!--==================== FOOTER ====================-->
+
+---
 
 <p align="center">
   <img
