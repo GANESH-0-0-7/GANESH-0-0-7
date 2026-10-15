@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ganesh C
+
 
 <h3 align="center">Java Full Stack Developer • Spring Boot • React</h3>
 
