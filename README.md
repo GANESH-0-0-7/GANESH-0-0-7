@@ -135,19 +135,7 @@
   </a>
 </p>
 
----
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=GANESH-0-0-7&theme=merko&hide_border=false" alt="GitHub Streak" />
-</p>
-
----
-
-
-
----
 
 
 
