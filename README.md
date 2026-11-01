@@ -43,7 +43,7 @@
 <h3 align="center">⚙️ Backend Development</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=spring,nodejs,express" alt="Backend Technologies" />
+  <img src="https://skillicons.dev/icons?i=spring" alt="Backend Technologies" />
 </p>
 
 <h3 align="center">🗄️ Databases</h3>
