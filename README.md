@@ -64,8 +64,7 @@ My interests lie in **backend development, full-stack application development, a
 
 <p align="center">
   <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GANESH-0-0-7&theme=tokyonight" alt="GitHub Statistics" />
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GANESH-0-0-7&theme=tokyonight" alt="Most Used Languages by Repository" />
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GANESH-0-0-7&theme=tokyonight" alt="Most Used Languages by Commits" />
+
 </p>
 
 <p align="center">
